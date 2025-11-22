@@ -1,0 +1,4 @@
+{
+  "name": "DSO for SOTA",
+  "description": "High-throughput dataset rewriting pipeline using Gemini with Chain-of-Thought reasoning visualization."
+}
