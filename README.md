@@ -3,7 +3,6 @@
 **Data Set Optimiser for State-of-the-Art Models**
 
 [![Version](https://img.shields.io/badge/version-1.2.0--stable-blue.svg)](https://github.com/yourusername/dso-sota)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB.svg)](https://reactjs.org/)
 
 > An enterprise-grade pipeline designed to rewrite, sanitize, and enhance conversational datasets for model training using Google's Gemini architecture with Chain-of-Thought reasoning.
